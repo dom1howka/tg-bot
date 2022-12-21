@@ -19,7 +19,7 @@ TOKEN = ваш token без ковычек
     <th>Бот </th>
   </tr>
   <tr>
-    <th>\hello</th>
+    <th>Hello</th>
     <th> </th>
   </tr>
   <tr>
